@@ -7,6 +7,9 @@ import yagmail
 
 hide_github_link_style = """
     <style>
+    #MainMenu {visibility: hidden;}
+    footer {visiblity: hidden;}
+    header {visibility: hidden;}
         .viewerBadge_container__1QSob {
             display: none !important;
         }
